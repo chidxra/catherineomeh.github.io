@@ -89,6 +89,21 @@ a:hover {
   border-radius: 20px;
 }
 
+.bio {
+  display: flex;
+  flex-direction: row;
+  gap: 100px;
+  font-size: 33px;
+  padding-right: 125px;
+}
+
+.headshot {
+  height: 300px;
+  width: auto;
+  padding-top: 30px;
+  padding-left: 35px;
+}
+
 footer {
   display: flex;
   justify-content: center;

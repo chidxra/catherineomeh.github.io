@@ -36,14 +36,18 @@ body {
   text-align: center;
 }
 
-#nav-bar{
+ul li a {
+  color: white;
+  font-size: 20px;
   list-style: none;
+  text-decoration: none;
+}
+
+.nav-bar{
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
   align-items: flex-end;
-  color: white;
-  font-size: 20px;
 }
 
 @media {max-width: 600px} {

@@ -21,14 +21,18 @@ body {
 }
 
 #main-heading{
-  padding-top: 215px;
+  padding-top: 250px;
+  padding-bottom: 0px;
   font-family: "Permanent Marker", cursive;
   margin: 0px;
-  font-size: 58px;
+  font-size: 90px;
+  line-height: 100px;
 }
 
 #main-subheading{
   margin: 0px;
+  paddging: 0;
+  font-size: 37px
 }
 
 #main-heading, #main-subheading {
@@ -36,24 +40,26 @@ body {
   text-align: center;
 }
 
-ul li a {
-  color: white;
-  font-size: 25px;
-  list-style: none;
-  text-decoration: none;
-  padding: 8px 16px;
-  background-color: rgb(157 157 157 / 30%);
-  border-radius: 20px;
-}
-
 .nav-bar{
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
-  justify-content: flex-end;
+  justify-content: center;
   gap: 50px;
   padding-right: 50px;
-  padding-top: 20px
+  list-style: none;
+  list-style-type: none;
+}
+
+ul li a {
+  color: white;
+  font-size: 30px;
+  list-style: none;
+  list-style-type: none;
+  text-decoration: none;
+  padding: 8px 16px;
+  background-color: rgb(157 157 157 / 30%);
+  border-radius: 20px;
 }
 
 @media {max-width: 600px} {

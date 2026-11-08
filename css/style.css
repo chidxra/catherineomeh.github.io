@@ -89,6 +89,8 @@ a:hover {
   border-radius: 20px;
 }
 
+/* Start About Page*/
+
 .bio {
   display: flex;
   flex-direction: row;
@@ -133,6 +135,24 @@ a:hover {
   font-size: 35px;
   cursor: url('../images/rocket'), auto;
 }
+
+.education {
+  display: flex;
+  flext-direction: row;
+  justify-content: space-around;
+  padding-right: 50px;
+  font-size: 20px;
+}
+
+.spelman-logo {
+  padding-top: 25px;
+}
+
+.spelman-intro {
+  padding-left: 100px;
+}
+
+/* End About Page*/
 
 footer {
   display: flex;

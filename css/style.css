@@ -104,6 +104,15 @@ a:hover {
   padding-left: 35px;
 }
 
+.naija {
+  color: lightgreen;
+}
+
+.naija:hover {
+  color: mediumspringgreen;
+  font-size: 35px;
+}
+
 footer {
   display: flex;
   justify-content: center;

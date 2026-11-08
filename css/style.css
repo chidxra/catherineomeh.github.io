@@ -82,6 +82,10 @@ a:hover {
   border-radius: 20px;
 }
 
+.bio {
+  color: white;
+}
+
 @media {max-width: 600px} {
   body {
     font-size: 14px;

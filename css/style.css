@@ -111,7 +111,7 @@ a:hover {
 .naija:hover {
   color: mediumspringgreen;
   font-size: 35px;
-  cursor: url('images/nigerian-flag'), auto;
+  cursor: url('../images/nigerian-flag'), auto;
 }
 
 footer {

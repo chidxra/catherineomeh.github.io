@@ -40,7 +40,7 @@ body {
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
-  flex-flow: justify-end;
+  align-items: flex-end;
   color: white;
 }
 

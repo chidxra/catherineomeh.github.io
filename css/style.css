@@ -163,6 +163,16 @@ a:hover {
 
 /* End About Page*/
 
+/* Start Contact Page*/
+
+.contact-information {
+  margin-left: 50px;
+  display: flex;
+  flex-direction: column;
+}
+
+/* End Contact Page*/
+
 footer {
   display: flex;
   justify-content: center;

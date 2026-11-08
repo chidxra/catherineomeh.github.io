@@ -21,7 +21,6 @@ body {
 }
 
 #main-heading{
-  padding-top: 240px;
   font-family: "Permanent Marker", cursive;
   margin: 0px;
   font-size: 90px;
@@ -35,9 +34,6 @@ body {
 
 #main-heading, #main-subheading {
   color: white;
-  text-align: center;
-  padding-bottom: 15px;
-
 }
 
 .nav-bar{
@@ -45,15 +41,16 @@ body {
   flex-direction: row;
   flex-wrap: nowrap;
   justify-content: flex-end;
-  gap: 100px;
+  gap: 60px;
   padding-right: 50px;
+  padding-top: 30px;
   list-style: none;
   list-style-type: none;
 }
 
 a {
   color: white;
-  font-size: 40px;
+  font-size: 30px;
   list-style: none;
   list-style-type: none;
   text-decoration: none;
@@ -64,7 +61,7 @@ a {
 
 a:hover {
   color: white;
-  font-size: 38px;
+  font-size: 32px;
   list-style: none;
   list-style-type: none;
   text-decoration: none;

@@ -114,6 +114,25 @@ a:hover {
   cursor: url('../images/nigerian-flag'), auto;
 }
 
+.health {
+  color: lightpink;
+}
+
+.health:hover {
+  color: pink;
+  font-size: 35px;
+  cursor: url('../images/doctor'), auto;
+
+.space {
+  color: lightblue;
+}
+
+.space:hover {
+  color: skyblue;
+  font-size: 35px;
+  cursor: url('../images/rocket'), auto;
+}
+
 footer {
   display: flex;
   justify-content: center;

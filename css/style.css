@@ -2,6 +2,7 @@ html, body {
   margin: 0;
   padding: 0;
   color: white;
+  height: 100%;
 }
 
 body {
@@ -10,6 +11,12 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
 }
 
 .permanent-marker-regular {
@@ -82,8 +89,9 @@ a:hover {
   border-radius: 20px;
 }
 
-.bio {
-  color: white;
+footer {
+  display: flex;
+  justify-content: center;
 }
 
 @media {max-width: 600px} {

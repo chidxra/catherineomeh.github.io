@@ -169,6 +169,16 @@ a:hover {
   margin-left: 50px;
   display: flex;
   flex-direction: column;
+  align-items: flex-start;
+  font-size: 25px;
+}
+
+.connect {
+  font-size: 40px;
+}
+
+.contact-me {
+  font-size: 25px;
 }
 
 /* End Contact Page*/

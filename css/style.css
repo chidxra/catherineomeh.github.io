@@ -53,6 +53,10 @@ body {
   list-style-type: none;
 }
 
+.home {
+  justify-content: flex-start;
+}
+
 a {
   color: white;
   font-size: 30px;

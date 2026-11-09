@@ -89,6 +89,39 @@ a:hover {
   border-radius: 20px;
 }
 
+/* Start Work Page*/
+
+.work {
+  display: flex;
+  flex-direction: column;
+}
+
+.top-work-text {
+  display: flex;
+  flext-direction: row;
+  justify-content: space-evenly;
+}
+
+.top-images {
+  display: flex;
+  flext-direction: row;
+  justify-content: space-evenly;
+}
+
+.bottom-work-text {
+  display: flex;
+  flext-direction: row;
+  justify-content: space-evenly;
+}
+
+.bottom-images {
+  display: flex;
+  flext-direction: row;
+  justify-content: space-evenly;
+}
+
+/* End Work Page*/
+
 /* Start About Page*/
 
 .bio {

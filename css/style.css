@@ -181,6 +181,14 @@ a:hover {
   font-size: 25px;
 }
 
+.contact-links {
+  font-size: 20px;
+}
+
+.contact-links:hover {
+  font-size: 22px;
+}
+
 /* End Contact Page*/
 
 footer {

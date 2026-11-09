@@ -121,6 +121,11 @@ a:hover {
   justify-content: space-evenly;
 }
 
+.work-image:hover {
+  width: 258px;
+  height: 258px;
+}
+
 /* End Work Page*/
 
 /* Start About Page*/

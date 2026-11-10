@@ -161,6 +161,17 @@ a:hover {
   justify-content: space-evenly;
 }
 
+.row-two-foe26 {
+  display: flex;
+  flex-direction: column;
+}
+
+.row-foe26 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
 /* End Work Page*/
 
 /* Start About Page*/

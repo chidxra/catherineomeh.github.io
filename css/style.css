@@ -122,9 +122,14 @@ a:hover {
   justify-content: space-evenly;
 }
 
+.work-image {
+  width: 350px;
+  height 350px;
+}
+
 .work-image:hover {
-  width: 258px;
-  height: 258px;
+  width: 352px;
+  height: 352x;
 }
 
 .foe26-page {

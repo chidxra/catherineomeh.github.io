@@ -126,6 +126,20 @@ a:hover {
   height: 258px;
 }
 
+.foe26-page {
+  display: flex;
+}
+
+.research-questions {
+  display: flex;
+  flex-direction: column;
+}
+
+.creative-innovations {
+  display: flex;
+  flex-direction: column;
+}
+
 /* End Work Page*/
 
 /* Start About Page*/

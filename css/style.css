@@ -140,6 +140,27 @@ a:hover {
   flex-direction: column;
 }
 
+.objectives {
+  width: 300px
+}
+
+.yearbook {
+  width: 300px
+}
+
+.ballroom-101 {
+  width: 300px
+}
+
+.interview-questions {
+  width: 300px;
+}
+
+.process {
+  display: flex;
+  justify-content: space-evenly;
+}
+
 /* End Work Page*/
 
 /* Start About Page*/

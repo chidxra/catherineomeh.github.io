@@ -146,6 +146,10 @@ a:hover {
   display: flex;
 }
 
+.plant-page {
+  display: flex;
+}
+
 .research-questions {
   display: flex;
   flex-direction: column;
@@ -185,6 +189,18 @@ a:hover {
 }
 
 .twine {
+  width: 300px;
+}
+
+.plant1 {
+  width: 300px;
+}
+
+.plant2 {
+  width: 300px;
+}
+
+.plant3 {
   width: 300px;
 }
 

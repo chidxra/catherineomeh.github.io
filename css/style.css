@@ -130,6 +130,10 @@ a:hover {
   display: flex;
 }
 
+.cerise-page {
+  display: flex;
+}
+
 .research-questions {
   display: flex;
   flex-direction: column;

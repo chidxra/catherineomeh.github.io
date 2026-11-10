@@ -273,17 +273,17 @@ a:hover {
 }
 
 .contact-links {
-  font-size: 35px;
+  font-size: 45px;
 }
 
 .contact-links:hover {
-  font-size: 37px;
+  font-size: 47px;
 }
 
 .contact-link-row {
   display: flex;
   flex-direction: row;
-  gap: 300px;
+  gap: 200px;
 }
 
 /* End Contact Page*/

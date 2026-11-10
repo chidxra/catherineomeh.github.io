@@ -318,6 +318,11 @@ a:hover {
   gap: 200px;
 }
 
+button {
+  background: none;
+  border: none;
+}
+
 /* End Contact Page*/
 
 footer {

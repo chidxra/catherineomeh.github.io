@@ -108,6 +108,8 @@ a:hover {
   display: flex;
   flext-direction: row;
   justify-content: space-evenly;
+  padding-top: 50px;
+  padding-bottom:50px;
 }
 
 .bottom-work-text {

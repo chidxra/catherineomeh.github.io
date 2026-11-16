@@ -77,6 +77,10 @@ a {
   padding: 8px 16px;
   background-color: rgb(157 157 157 / 30%);
   border-radius: 20px;
+  border-width: 2px;
+  border-style: outset;
+  border-color: buttonborder;
+  border-image: none;
 }
 
 a:hover {
@@ -230,7 +234,6 @@ a:hover {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
-  padding-top: 60px;
 }
 
 /* End Play Page*/

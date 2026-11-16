@@ -229,6 +229,7 @@ a:hover {
 .play {
   display: flex;
   flex-direction: row;
+  justify-content: space-evenly;
 }
 
 /* End Play Page*/

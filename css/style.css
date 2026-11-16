@@ -224,6 +224,15 @@ a:hover {
 
 /* End Work Page*/
 
+/* Start Play Page*/
+
+.play {
+  display: flex;
+  flex-direction: row;
+}
+
+/* End Play Page*/
+
 /* Start About Page*/
 
 .bio {

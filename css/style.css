@@ -94,6 +94,21 @@ a:hover {
   border-radius: 20px;
 }
 
+a:active {
+  color: white;
+  font-size: 30px;
+  list-style: none;
+  list-style-type: none;
+  text-decoration: none;
+  padding: 8px 16px;
+  background-color: rgb(255 253 253 / 30%);
+  border-radius: 20px;
+  border-width: 2px;
+  border-style: inset;
+  border-color: buttonborder;
+  border-image: none;
+}
+
 /* Start Work Page*/
 
 .work {

@@ -249,6 +249,7 @@ a:active {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
+  padding-top: 60px;
 }
 
 /* End Play Page*/

@@ -258,7 +258,9 @@ a:active {
 
 .process {
   display: flex;
-  justify-content: space-evenly;
+  flex-direction: column;
+  height: 100%;
+  align-items: center;
 }
 
 .row-two-foe26 {

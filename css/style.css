@@ -282,12 +282,11 @@ a:active {
 }
 
 .naija {
-  color: lightgreen;
+  color: white;
 }
 
 .naija:hover {
-  color: #81ee81;
-  font-size: 35px;
+  text-shadow: 0 0 20px #81ee81;
   cursor: url('../images/nigerian-flag'), auto;
 }
 
@@ -296,8 +295,7 @@ a:active {
 }
 
 .health:hover {
-  color: #fc9faf;
-  font-size: 35px;
+  text-shadow: 0 0 20px #fc9faf;
   cursor: url('../images/doctor'), auto;
 }
 
@@ -306,8 +304,7 @@ a:active {
 }
 
 .space:hover {
-  color: skyblue;
-  font-size: 35px;
+  text-shadow: 0 0 20px skyblue;
   cursor: url('../images/rocket'), auto;
 }
 

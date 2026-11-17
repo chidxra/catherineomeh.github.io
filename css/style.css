@@ -291,7 +291,7 @@ a:active {
 }
 
 .health {
-  color: lightpink;
+  color: white;
 }
 
 .health:hover {
@@ -300,7 +300,7 @@ a:active {
 }
 
 .space {
-  color: lightblue;
+  color: white;
 }
 
 .space:hover {

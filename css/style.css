@@ -83,6 +83,10 @@ main {
   list-style-type: none;
 }
 
+.homepage {
+  margin: auto;
+}
+
 .topnav .icon {
   display: none;
 }

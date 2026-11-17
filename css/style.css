@@ -283,28 +283,31 @@ a:active {
 
 .naija {
   color: white;
+  text-shadow: 0 0 20px #81ee81;
 }
 
 .naija:hover {
-  text-shadow: 0 0 20px #81ee81;
+  text-shadow: 0 0 40px #81ee81;
   cursor: url('../images/nigerian-flag'), auto;
 }
 
 .health {
   color: white;
+  text-shadow: 0 0 20px #fc9faf;
 }
 
 .health:hover {
-  text-shadow: 0 0 20px #fc9faf;
+  text-shadow: 0 0 40px #fc9faf;
   cursor: url('../images/doctor'), auto;
 }
 
 .space {
   color: white;
+  text-shadow: 0 0 20px skyblue;
 }
 
 .space:hover {
-  text-shadow: 0 0 20px skyblue;
+  text-shadow: 0 0 40px skyblue;
   cursor: url('../images/rocket'), auto;
 }
 

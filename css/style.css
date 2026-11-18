@@ -330,10 +330,10 @@ a:active {
 }
 
 .headshot {
-  height: 90%;
+  height: 80%;
   width: auto;
-  padding-top: 30px;
   padding-left: 35px;
+  padding-top: 4%;
 }
 
 .naija {
@@ -369,15 +369,15 @@ a:active {
 .education {
   display: flex;
   flext-direction: row;
-  justify-content: space-around;
+  justify-content: space-evenly;
   padding-right: 50px;
-  font-size: 20px;
+  font-size: 150%;
 }
 
 .short-bio {
   font-size: 100%;
   margin-bottom: none;
-  width: 70%;
+  width: 55%;
   padding-top: 2%;
 }
 
@@ -385,12 +385,8 @@ a:active {
   padding-top: 25px;
 }
 
-.spelman-intro {
-  padding-left: 100px;
-}
-
 .education-sections {
-  font-size: 35px;
+  font-size:150%;
   margin-bottom: 0px;
 }
 
@@ -402,6 +398,13 @@ a:active {
 .work-page {
   margin-left: 50px;
   margin-right: 50px;
+}
+
+.long-bio {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 100%;
 }
 
 /* End About Page*/

@@ -41,7 +41,7 @@ main {
 #main-heading{
   font-family: "Permanent Marker", cursive;
   margin: 0px;
-  font-size: 90px;
+  font-size: 600%;
   line-height: 100px;
   animation: pulse 2s infinite alternate;
 }
@@ -57,7 +57,7 @@ main {
 
 #main-subheading{
   margin: 0px;
-  font-size: 37px;
+  font-size: 200%;
 }
 
 #main-heading, #main-subheading {

@@ -429,6 +429,7 @@ a:active {
   display: flex;
   flex-direction: row;
   gap: 200px;
+  flex-wrap: wrap;
 }
 
 button {

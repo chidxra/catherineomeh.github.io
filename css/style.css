@@ -440,7 +440,10 @@ a:active {
 .contact-link-row {
   display: flex;
   flex-direction: row;
-  gap: 200px;
+  gap: 15%;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
 }
 
 button {

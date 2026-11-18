@@ -314,7 +314,6 @@ a:active {
   flex-direction: row;
   justify-content: space-evenly;
   padding-top: 60px;
-  flex-wrap: wrap;
 }
 
 /* End Play Page*/
@@ -327,6 +326,7 @@ a:active {
   gap: 100px;
   font-size: 180%;
   padding-right: 125px;
+  flex-wrap: wrap;
 }
 
 .headshot {
@@ -372,6 +372,7 @@ a:active {
   justify-content: space-around;
   padding-right: 50px;
   font-size: 20px;
+  flex-wrap: wrap;
 }
 
 .spelman-logo {
@@ -429,7 +430,6 @@ a:active {
   display: flex;
   flex-direction: row;
   gap: 200px;
-  flex-wrap: wrap;
 }
 
 button {

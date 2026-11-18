@@ -372,7 +372,6 @@ a:active {
   justify-content: space-evenly;
   padding-right: 50px;
   font-size: 150%;
-  flex-wrap: wrap;
 }
 
 .short-bio {
@@ -387,7 +386,7 @@ a:active {
 }
 
 .education-sections {
-  font-size: 150%;
+  font-size:150%;
   margin-bottom: 0px;
 }
 
@@ -406,8 +405,6 @@ a:active {
   flex-direction: column;
   flex-wrap: wrap;
   height: 100%;
-  overflow: auto;
-  gap: 10%;
 }
 
 /* End About Page*/
@@ -442,7 +439,10 @@ a:active {
 .contact-link-row {
   display: flex;
   flex-direction: row;
-  gap: 200px;
+  flex-wrap: wrap;
+  gap: 15%;
+  width: 100%;
+  justify-content: center;
 }
 
 button {

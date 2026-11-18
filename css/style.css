@@ -407,6 +407,7 @@ a:active {
   flex-wrap: wrap;
   height: 100%;
   overflow: auto;
+  justify-content: space-evenly;
 }
 
 /* End About Page*/

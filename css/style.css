@@ -314,6 +314,7 @@ a:active {
   flex-direction: row;
   justify-content: space-evenly;
   padding-top: 60px;
+  flex-wrap: wrap;
 }
 
 /* End Play Page*/
@@ -439,10 +440,7 @@ a:active {
 .contact-link-row {
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap;
-  gap: 15%;
-  width: 100%;
-  justify-content: center;
+  gap: 200px;
 }
 
 button {

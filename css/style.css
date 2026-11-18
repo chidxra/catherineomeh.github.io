@@ -406,6 +406,7 @@ a:active {
   flex-direction: column;
   flex-wrap: wrap;
   height: 100%;
+  overflow: auto;
 }
 
 /* End About Page*/

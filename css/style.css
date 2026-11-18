@@ -325,12 +325,12 @@ a:active {
   flex-direction: row;
   gap: 100px;
   font-size: 180%;
-  padding-right: 125px;
   flex-wrap: wrap;
+  height: 40%;
 }
 
 .headshot {
-  height: 300px;
+  height: 90%;
   width: auto;
   padding-top: 30px;
   padding-left: 35px;
@@ -372,7 +372,13 @@ a:active {
   justify-content: space-around;
   padding-right: 50px;
   font-size: 20px;
-  flex-wrap: wrap;
+}
+
+.short-bio {
+  font-size: 100%;
+  margin-bottom: none;
+  width: 70%;
+  padding-top: 2%;
 }
 
 .spelman-logo {
@@ -390,6 +396,7 @@ a:active {
 
 .education-lists {
   margin-top: 5px;
+  font-size: 100%;
 }
 
 .work-page {

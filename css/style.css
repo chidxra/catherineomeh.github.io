@@ -289,7 +289,7 @@ a:active {
   width: 300px;
 }
 
-.foe25-closing {
+.foe25-closing, .cerise-banner, .plant-wave-banner {
   width: 100%;
 }
 
@@ -300,6 +300,13 @@ a:active {
   height: 100%;
 }
 
+.process-two {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  gap: 20px;
+}
 
 .row-two-foe26 {
   display: flex;

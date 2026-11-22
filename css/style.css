@@ -289,10 +289,17 @@ a:active {
   width: 300px;
 }
 
+.foe25-closing {
+  width: 100%;
+}
+
 .process {
   display: flex;
-  justify-content: space-evenly;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
 }
+
 
 .row-two-foe26 {
   display: flex;

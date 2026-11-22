@@ -348,13 +348,13 @@ a:active {
   font-size: 180%;
   flex-wrap: wrap;
   height: 40%;
+  justify-content: center;
+
 }
 
 .headshot {
   height: 80%;
   width: auto;
-  padding-left: 35px;
-  padding-top: 4%;
 }
 
 .naija {
@@ -391,15 +391,36 @@ a:active {
   display: flex;
   flext-direction: row;
   justify-content: space-evenly;
-  padding-right: 50px;
   font-size: 150%;
+  justify-content: center;
 }
 
 .short-bio {
   font-size: 100%;
   margin-bottom: none;
-  width: 55%;
-  padding-top: 2%;
+  width: 55vw;
+}
+
+@media (max-width: 600px) {
+  .headshot {
+    height: 90%;
+  }
+
+  .short-bio {
+    font-size: 60%;
+  }
+
+  .education {
+    font-size: 60%;
+    margin-top: 76%;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin-left: 22%;
+  }
+
+  .bio {
+    gap: 30px;
+  }
 }
 
 .spelman-logo {
@@ -425,9 +446,7 @@ a:active {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  height: 100%;
-  overflow: auto;
-  justify-content: space-evenly;
+  min-height: 100vw;
 }
 
 /* End About Page*/

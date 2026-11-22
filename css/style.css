@@ -186,6 +186,10 @@ a:active {
   font-size: 30px;
 }
 
+.active {
+    margin-left: 50px;
+}
+
 /* Start Work Page*/
 
 .work {
